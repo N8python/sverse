@@ -123,6 +123,6 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
-.stop-all_stop-all_1Y8P9:hover {
-  color: purple;
+.react-contextmenu-wrapper sprite-selector_sprite_21WnR sprite-selector-item_sprite-selector-item_kQm-i sprite-selector-item_is-selected_24tQj:hover {
+  transform: scale(1.1);
 }
